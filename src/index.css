@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --brand: #0ea5e9; }
+.container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+.card { background: #fff; border-radius: 1rem; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
